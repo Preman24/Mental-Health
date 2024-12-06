@@ -1,4 +1,4 @@
-# Project-Description
+# Mental Health Project-Description
 
 Mental health is a crucial aspect of our daily lives, and it’s essential to prioritize our well-being, even amidst the demands of a busy lifestyle that can negatively impact our mental state. To address this issue, we analyzed a mental health dataset sourced from Kaggle, which includes responses from 147,000 participants. This dataset captures a range of factors affecting mental health through numerical and categorical data. To further explore this topic, we proposed four key questions to guide our analysis.
 
