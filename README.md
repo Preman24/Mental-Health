@@ -12,7 +12,7 @@ Mental health is a crucial aspect of our daily lives, and it’s essential to pr
 | Column Names  | Description |
 | :---: | :---: |
 | ID                                               | Unique identifier for each participant in the study.              |
-| Gender                                           | Gender of the participant (e.g., Male, Female, Other).           |
+| Gender                                           | Gender of the participant (e.g., Male, Female).           |
 | Age                                             | Age of the participant in years.                                 |
 | Working Professional or Student                  | Indicates whether the participant is a working professional or a student. |
 | Profession                                       | Current profession or field of study of the participant.         |
