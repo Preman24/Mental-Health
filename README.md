@@ -34,21 +34,24 @@ Mental health is a crucial aspect of our daily lives, and it’s essential to pr
 
 # Key Findings
 Result 1.
-=> the correlation analysis between revealed a weak correlation between mental health and dietary habits with 15% being the highest, suggesting other determinet to mental health 
 
-=> One interesting factor showed a sudical thoughts and depression had a moderate strong positive correlation which is proven by other studies as well 
+=> The correlation analysis revealed a weak correlation between mental health and dietary habits, with 15% being the highest, suggesting other determinants of mental health 
+
+=> One interesting factor showed a suicidal thoughts and depression had a moderately strong positive correlation, which is proven by other studies as well 
 
 Result 2.
+
 => The CGPA range of the students was:
 - highest CGPA: 10
 - average CGPA: 7.66
 - lowest CGPA: 5.03
 
-=> The relationship between CGPA and study satisfaction revealed students with higher CGPAs tend to report lower study satisfaction indicated as more hard-working and driven to achieve good grades whereas students with lower CGPAs might be less diligent while being satisfied with their mediocore grades
+=> The relationship between CGPA and study satisfaction revealed that students with higher CGPAs tend to report lower study satisfaction, indicated as more hard-working and driven to achieve good grades, whereas students with lower CGPAs might be less diligent while being satisfied with their mediocre grades
 
-=> Desipte varying sleep durations, most students maintain CGPAs within the similar range around the average 7.66, suggesting that sleep durations does not significantly affect overall academic performance
+=> Desipte varying sleep durations, most students maintain CGPAs within a similar range around the average 7.66, suggesting that sleep durations do not significantly affect overall academic performance
 
 Result 3.
+
 => The analysis grouped various job titles into 12 fields, revealing that the majority of workers are in the education sector, with nearly 30,000 individuals, while the aviation sector has the fewest, with around 2,500 workers
 
 => To evaluate the job, 3 categories were used: Job Satisfaction, Financial Stress, and Work Pressure. Each category was rated on a scale from 1 (low) to 5 (high), allowing for a comparative analysis by using the statistical method 'mode' to get the most votes in each profession
@@ -57,6 +60,7 @@ Result 3.
 - Financial Stress: The financial stress levels for workers in Architecture, Aviation, and Construction fell within the range of 2, suggesting that these positions offer sustainable income, which contributes positively to the overall quality of life, helping mitigate financial stress
 
 Result 4.
+
 => Divided our predictive analysis into 2 groups
 - Students
 - Working Adults
