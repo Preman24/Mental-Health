@@ -37,7 +37,7 @@ Result 1.
 
 => The correlation analysis revealed a weak correlation between mental health and dietary habits, with 15% being the highest, suggesting other determinants of mental health 
 
-=> One interesting factor showed a suicidal thoughts and depression had a moderately strong positive correlation, which is proven by other studies as well 
+=> One interesting factor showed that suicidal thoughts and depression had a moderately strong positive correlation of 35%, which is proven by other studies as well 
 
 Result 2.
 
