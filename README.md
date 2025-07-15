@@ -55,4 +55,4 @@ Result 4.
 
 * One possible reason for the poor model performance is class imbalance, as working adults had more data compared to students
 
-# Tools: sklearn, seaborn, matplotlib, pandas, numpy
+# Tools: python, sklearn, seaborn, matplotlib, pandas, numpy
