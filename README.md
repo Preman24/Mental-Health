@@ -1,4 +1,4 @@
-# Project-Description
+# Project Description
 
 Title: Analysing factors influencing mental health among individuals: Machine Learning Approach
 
