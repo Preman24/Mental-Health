@@ -49,7 +49,23 @@ Result 4.
 - Support Vector Machine (SVM)
 - K-Nearest Neighbor (K-NN)
 
+| Worker Prediction Model  | Precision | Recall   | F1-Score | Accuracy |
+|--------------------------|-----------|----------|----------|----------|
+| Logistic Regression       | 95.99%    | 96.19%   | 96.04%   | 96.19%   |
+| Decision Tree             | 93.62%    | 93.38%   | 93.50%   | 93.38%   |
+| Random Forest             | 95.80%    | 96.05%   | 95.83%   | 96.05%   |
+| SVM                       | 95.99%    | 96.19%   | 96.04%   | 96.19%   |
+| KNN                       | 95.05%    | 95.31%   | 95.14%   | 95.31%   |
+
 => Worker model: All models performed above 90% with the best model being SVM and Logistic Regression (Both metrics evaluation being the same)
+
+| Student Prediction Model | Precision | Recall   | F1-Score | Accuracy |
+|-------------------------|-----------|----------|----------|----------|
+| Logistic Regression      | 85.25%    | 85.29%   | 85.24%   | 85.29%   |
+| Decision Tree            | 77.36%    | 77.26%   | 77.31%   | 77.26%   |
+| Random Forest            | 84.57%    | 84.62%   | 84.54%   | 84.62%   |
+| SVM                      | 85.35%    | 85.39%   | 85.34%   | 85.39%   |
+| KNN                      | 80.54%    | 80.63%   | 80.55%   | 80.63%   |
 
 => Student model: All models performed poorer than the Worker model, with the best model being SVM (All above 80% except decision tree)
 
